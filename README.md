@@ -1,3 +1,9 @@
+# Paper reading list
+본 repository는 2019.11~2019.12까지 OJT로 진행된 paper reading를 정리한 것이다. 
+각 정리내용 notion으로 확인할 수 있다.
+
+## paper list
+
 | category                  | paper_name                 | link          |
 | :------------------- | -------------------: |:---------------:|
 |Image|Scene Text detection and recognition: recent advances and future trends | [click](https://www.notion.so/impactjoo/Scene-Text-detection-and-recognition-recent-advances-and-future-trends-773397f57cf74f1b8ee80f63094e2b5f)
