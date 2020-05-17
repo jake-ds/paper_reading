@@ -1,5 +1,3 @@
-논문리뷰
-
 # Paper reading list
 본 repository는 2019.11~2019.12까지 OJT로 진행된 paper reading를 정리한 것이다. 
 각 정리내용 notion으로 확인할 수 있다.
